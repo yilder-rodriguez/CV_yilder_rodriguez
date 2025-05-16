@@ -1,7 +1,7 @@
 # CV_Example
 # Hoja de Vida
 
-## Nombre Completo yilder stiven rodriguez lozada
+## yilder stiven rodriguez lozada
 **Profesión:** Tecnologo en analisis y desarrollo de sofware
 
 ## 📞 Contacto
