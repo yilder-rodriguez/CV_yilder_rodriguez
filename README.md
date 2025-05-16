@@ -10,7 +10,7 @@
 
 
 ## 🏢 Experiencia Laboral
-### **sena_(2025 - Actualidad)_
+### **sena**_(2025 - Actualidad)_
 - programador de sofware 
 
 ## 🎓 Educación
