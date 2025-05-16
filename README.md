@@ -14,8 +14,8 @@
 - programador de sofware 
 
 ## 🎓 Educación
-### **sena** _(2022 - 2023)_
-- Tecnico en sistemas
+### **bachiderato con doble titulacion** _(2022 - 2023)_
+-bachiller tecnico con especialidad en sisitemas
 
 ## 💡 Habilidades
 - **mantenimientos en computadores**
